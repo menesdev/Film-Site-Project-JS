@@ -5,7 +5,7 @@ let showProducts = function (id,...products) { //"...products boş bir array."
     console.log(products)
 }
 
-//console.log(typeof showProducts)
+// console.log(typeof showProducts);
 //showProducts(10, "Elma","Armut","Kavun")
 
 
